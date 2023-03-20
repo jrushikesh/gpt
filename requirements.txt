@@ -1,0 +1,6 @@
+streamlit
+openai
+azure.identity
+streamlit_chat
+azure.core
+azure.search.documents
